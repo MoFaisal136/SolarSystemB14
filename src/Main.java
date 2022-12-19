@@ -1,7 +1,10 @@
 public class Main {
     public static void main(String[] args) {
 
-        System.out.println("The basic structure is ready please write down your code "+
-                " Project");
+        SolarSystem Bing = new SolarSystem();
+        Bing.Sun=1;
+        Bing.Moon=2;
+        Bing.Planets=3;
+
     }
 }
